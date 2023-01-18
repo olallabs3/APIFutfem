@@ -11,7 +11,9 @@ public static class JugadoraService
         Jugadoras = new List<Jugadora>
         {
             new Jugadora { Id = 1, Nombre = "Sandra", Apellidos = "Paños", Edad = 30, Equipo = "Futbol Club Barcelona", Numero= 1, Posicion = "Portera", Capitana = true, Goles = 0, Asistencias = 0 , TarjetasA = 0 ,TarjetasR = 0},
-            new Jugadora { Id = 2, Nombre = "Irene", Apellidos = "Paredes", Edad = 31, Equipo = "Futbol Club Barcelona", Numero= 2, Posicion = "Defensa", Capitana = true, Goles = 1, Asistencias = 1 , TarjetasA = 1 ,TarjetasR = 0 }
+            new Jugadora { Id = 2, Nombre = "Irene", Apellidos = "Paredes", Edad = 31, Equipo = "Futbol Club Barcelona", Numero= 2, Posicion = "Defensa", Capitana = true, Goles = 1, Asistencias = 1 , TarjetasA = 1 ,TarjetasR = 0 },
+            new Jugadora { Id = 4, Nombre = "Maria Pilar", Apellidos = "León", Edad = 27, Equipo = "Futbol Club Barcelona", Numero= 4, Posicion = "Defensa", Capitana = false, Goles = 3, Asistencias = 0 , TarjetasA = 2 ,TarjetasR = 0 },
+            new Jugadora { Id = 5, Nombre = "Patricia", Apellidos = "Guijarro", Edad = 25, Equipo = "Futbol Club Barcelona", Posicion = "Centrocampista", Capitana = true, Goles = 2, Asistencias = 5 , TarjetasA = 0 ,TarjetasR = 0 }
         };
     }
 
