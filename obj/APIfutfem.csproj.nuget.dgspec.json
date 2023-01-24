@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A8-PC100\\Desktop\\APIfutfem\\APIfutfem.csproj": {}
+    "C:\\Users\\A8-PC100\\Desktop\\APIFutfem\\APIfutfem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A8-PC100\\Desktop\\APIfutfem\\APIfutfem.csproj": {
+    "C:\\Users\\A8-PC100\\Desktop\\APIFutfem\\APIfutfem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A8-PC100\\Desktop\\APIfutfem\\APIfutfem.csproj",
+        "projectUniqueName": "C:\\Users\\A8-PC100\\Desktop\\APIFutfem\\APIfutfem.csproj",
         "projectName": "APIfutfem",
-        "projectPath": "C:\\Users\\A8-PC100\\Desktop\\APIfutfem\\APIfutfem.csproj",
+        "projectPath": "C:\\Users\\A8-PC100\\Desktop\\APIFutfem\\APIfutfem.csproj",
         "packagesPath": "C:\\Users\\A8-PC100\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A8-PC100\\Desktop\\APIfutfem\\obj\\",
+        "outputPath": "C:\\Users\\A8-PC100\\Desktop\\APIFutfem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A8-PC100\\AppData\\Roaming\\NuGet\\NuGet.Config",

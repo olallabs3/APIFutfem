@@ -10,6 +10,8 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+// IsDevelopment  --> para desarrollo
+// dotnet run -e --environment Production --> Para cuando esta en producción asi muestro lo que quiera al usuario y no me la puede modificar
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

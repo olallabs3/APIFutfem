@@ -8,7 +8,7 @@ public class Jugadora
     public string? Posicion { get; set; }
     public bool Capitana { get; set; }
 
-    //Partidos jugador se podría añadir
+    //Partidos jugados se podría añadir
     public string? Equipo { get; set; }
     public int Edad { get; set; }
     public int Numero { get; set; }
